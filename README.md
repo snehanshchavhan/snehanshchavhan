@@ -1,7 +1,8 @@
 # 👋 Hey, I'm Snehansh!
 
 <p align="center">
-  <img src="./lion.jpg" alt="Lion" width="700">
+  <img width="1024" height="820" alt="image" src="https://github.com/user-attachments/assets/e5d03430-c3a2-4a72-8592-685b56a9e463" />
+
 </p>
 
 <p align="center">
