@@ -1,23 +1,28 @@
-# 👋 Hey, I'm Snehansh!
+# 👋 Hey, I'm Snehansh Chavhan!
 
 <p align="center">
-  <img width="512" height="410" alt="image" src="https://github.com/user-attachments/assets/e5d03430-c3a2-4a72-8592-685b56a9e463" />
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,50:243B55,100:00C6FF&height=170&section=header&text=Snehansh%20Chavhan&fontSize=45&fontColor=ffffff&fontAlignY=50&animation=fadeIn" alt="Snehansh Chavhan" />
 </p>
 
 <p align="center">
-  <b>🎓 First-Semester Integrated MCA Student | IIPS, DAVV, Indore</b>
+  <b>🎓 Integrated MCA Student | IIPS, DAVV, Indore</b>
 </p>
 
 <p align="center">
   ⚽ Football &nbsp; • &nbsp; 🐐 Cristiano Ronaldo &nbsp; • &nbsp; 📊 Statistics &nbsp; • &nbsp; ∫ Calculus
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=snehansh&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/snehansh?label=FOLLOWERS&style=for-the-badge&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/snehansh?label=STARS&style=for-the-badge&color=yellow" alt="Stars" />
+</p>
+
 ---
 
 ## 🎓 About Me
 
-Hi! I'm **Snehansh**, a 1st-semester **Integrated MCA student** at **IIPS, DAVV, Indore**.
+Hi! I'm **Snehansh Chavhan**, a **1st-semester Integrated MCA student** at **IIPS, DAVV, Indore**.
 
 I'm beginning my journey in programming and Computer Science while exploring my interests in **Statistics, Calculus, Data, and Football**. ⚽📊
 
@@ -35,7 +40,13 @@ I'm beginning my journey in programming and Computer Science while exploring my 
 
 ## ⚡ Tech & Learning
 
-💻 **Currently Exploring**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode,html,css&perline=8" />
+</p>
+
+🌱 Currently learning programming fundamentals and building a strong foundation in Computer Science.
+
+### 🔧 Currently Exploring
 
 - C
 - C++
@@ -45,8 +56,6 @@ I'm beginning my journey in programming and Computer Science while exploring my 
 - Git
 - GitHub
 - VS Code
-
-🌱 Currently learning programming fundamentals and building a strong foundation in Computer Science.
 
 ---
 
@@ -108,7 +117,7 @@ Currently exploring:
 
 ---
 
-## 🎯 Goals
+## 🎯 My Goals
 
 - 💻 Become a strong programmer
 - 🧠 Build a solid Computer Science foundation
@@ -124,8 +133,8 @@ Currently exploring:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snehansh&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehansh&layout=compact&theme=tokyonight&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=snehansh&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehansh&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
@@ -134,7 +143,7 @@ Currently exploring:
 
 <p align="center">
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=snehansh&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=snehansh&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
 
 </p>
 
@@ -143,7 +152,7 @@ Currently exploring:
 ## 🐍 Contribution Journey
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
@@ -160,11 +169,11 @@ Proud to be an **Indori** and excited to start my MCA journey at **IIPS, DAVV**.
 
 <p align="center">
 
-💻 GitHub &nbsp;&nbsp; • &nbsp;&nbsp;
-🔗 LinkedIn &nbsp;&nbsp; • &nbsp;&nbsp;
-⚽ Football &nbsp;&nbsp; • &nbsp;&nbsp;
-📊 Statistics &nbsp;&nbsp; • &nbsp;&nbsp;
-🧮 Mathematics &nbsp;&nbsp; • &nbsp;&nbsp;
+💻 GitHub &nbsp; • &nbsp;
+🔗 LinkedIn &nbsp; • &nbsp;
+⚽ Football &nbsp; • &nbsp;
+📊 Statistics &nbsp; • &nbsp;
+🧮 Mathematics &nbsp; • &nbsp;
 🚀 Technology
 
 </p>
