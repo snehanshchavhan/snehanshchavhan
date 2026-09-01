@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Snehansh!
 
 <p align="center">
-  <img width="1024" height="820" alt="image" src="https://github.com/user-attachments/assets/e5d03430-c3a2-4a72-8592-685b56a9e463" />
+  <img width="512" height="410" alt="image" src="https://github.com/user-attachments/assets/e5d03430-c3a2-4a72-8592-685b56a9e463" />
 
 </p>
 
