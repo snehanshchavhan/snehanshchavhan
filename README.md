@@ -1,4 +1,7 @@
 # 👋 Hey, I'm Snehansh Chavhan!
+<p align="center">
+  <img src="./profile.png" width="180" alt="Snehansh Chavhan">
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,50:243B55,100:00C6FF&height=170&section=header&text=Snehansh%20Chavhan&fontSize=45&fontColor=ffffff&fontAlignY=50&animation=fadeIn" alt="Snehansh Chavhan" />
