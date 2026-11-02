@@ -91,17 +91,14 @@ A passionate football enthusiast and Cristiano Ronaldo admirer. I appreciate the
 
 ## GitHub Overview
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snehansh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="175" alt="GitHub statistics" />
-</p>
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehansh&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Most used programming languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=snehansh&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehansh&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=snehansh&theme=tokyonight&hide_border=true" width="70%" alt="GitHub contribution streak" />
-</p>
 
 ---
 
@@ -113,12 +110,11 @@ Your GitHub contribution activity is also visible on your profile's native contr
 
 ## Contribution Snake
 
+
+## 🐍 Contribution Journey
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/snehansh/snehansh/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/snehansh/snehansh/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/snehansh/snehansh/output/github-snake.svg" width="100%" alt="Animated GitHub contribution snake" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
