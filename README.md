@@ -1,190 +1,167 @@
-# 👋 Hey, I'm Snehansh Chavhan!
+# Snehansh Chavhan
+
 <p align="center">
-  <img src="./profile.png" width="180" alt="Snehansh Chavhan">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E3A5F,100:0EA5E9&height=180&section=header&text=Snehansh%20Chavhan&fontSize=46&fontColor=ffffff&fontAlignY=52&animation=fadeIn" width="100%" alt="Snehansh Chavhan" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,50:243B55,100:00C6FF&height=170&section=header&text=Snehansh%20Chavhan&fontSize=45&fontColor=ffffff&fontAlignY=50&animation=fadeIn" alt="Snehansh Chavhan" />
+  <img src="./profile.png" width="155" alt="Snehansh Chavhan" />
+</p>
+
+<h3 align="center">Integrated MCA Student | Aspiring Software Developer</h3>
+
+<p align="center">
+  IIPS, DAVV, Indore
 </p>
 
 <p align="center">
-  <b>🎓 Integrated MCA Student | IIPS, DAVV, Indore</b>
+  <a href="https://github.com/snehansh">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=snehansh&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/snehansh?label=Followers&style=flat-square&color=blue" />
 </p>
 
 <p align="center">
-  ⚽ Football &nbsp; • &nbsp; 🐐 Cristiano Ronaldo &nbsp; • &nbsp; 📊 Statistics &nbsp; • &nbsp; ∫ Calculus
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=snehansh&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/snehansh?label=FOLLOWERS&style=for-the-badge&color=blue" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/snehansh?label=STARS&style=for-the-badge&color=yellow" alt="Stars" />
+  <i>Learning in public. Building with purpose. Improving every day.</i>
 </p>
 
 ---
 
-## 🎓 About Me
+## About Me
 
-Hi! I'm **Snehansh Chavhan**, a **1st-semester Integrated MCA student** at **IIPS, DAVV, Indore**.
+Hi, I'm **Snehansh Chavhan**, a first-semester **5-Year Integrated MCA student** at IIPS, DAVV, Indore.
 
-I'm beginning my journey in programming and Computer Science while exploring my interests in **Statistics, Calculus, Data, and Football**. ⚽📊
+I'm at the beginning of my Computer Science journey, focused on developing strong programming fundamentals, understanding how technology works, and building practical skills through consistent learning and experimentation.
 
-- 🎓 **Course:** 5-Year Integrated MCA
-- 🏫 **Institute:** IIPS, DAVV, Indore
-- 📚 **Semester:** 1st Semester
-- 📍 **Location:** Sapna Sangeeta, Indore, Madhya Pradesh 🇮🇳
-- ⚽ **Football Lover**
-- 🐐 **Cristiano Ronaldo Fan**
-- 📊 **Statistics Enthusiast**
-- ∫ **Calculus Enthusiast**
-- 💻 **Aspiring Developer**
+Beyond programming, I enjoy exploring mathematics, statistics, data, and football.
+
+- **Course:** 5-Year Integrated MCA
+- **Institution:** IIPS, DAVV, Indore
+- **Semester:** First Semester
+- **Location:** Indore, Madhya Pradesh, India
+- **Primary interests:** Software Development, Computer Science and Data
 
 ---
 
-## ⚡ Tech & Learning
+## Tech Stack & Tools
+
+I'm currently learning and exploring these technologies.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode,html,css&perline=8" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,git,github,vscode&perline=8" alt="Technologies and development tools" />
 </p>
 
-🌱 Currently learning programming fundamentals and building a strong foundation in Computer Science.
+### Current Learning Focus
 
-### 🔧 Currently Exploring
-
-- C
-- C++
-- Python
-- HTML
-- CSS
-- Git
-- GitHub
-- VS Code
-
----
-
-## ⚽ Football
-
-Football isn't just a sport — it's an emotion. ❤️
-
-### 🐐 Favourite Player
-
-**Cristiano Ronaldo 🇵🇹**
-
-I admire his:
-
-- 💪 Discipline
-- 🧠 Mentality
-- 🔥 Consistency
-- 🚀 Hard Work
-- 🎯 Dedication
-- 🏆 Desire to Improve
-
-> **Dream. Believe. Achieve.**
-
----
-
-## 📊 Statistics & Mathematics
-
-### 📊 Statistics
-
-I'm interested in understanding how data can reveal patterns and tell stories.
-
-- 📈 Data Analysis
-- 🎲 Probability
-- 📊 Distributions
-- 🔎 Patterns & Trends
-- 🧠 Statistical Thinking
-
-### ∫ Calculus
-
-Currently exploring:
-
-- Limits
-- Differentiation
-- Integration
-- Functions
-- Mathematical Problem Solving
-
----
-
-## 📈 My Learning Journey
-
-| Skill | Level |
+| Area | Focus |
 |---|---|
-| 💻 Programming | 🌱 Beginner |
-| C / C++ | 🌱 Learning |
-| 🐍 Python | 🌱 Exploring |
-| 📊 Statistics | ⭐ Interested |
-| ∫ Calculus | ⭐ Interested |
-| 🐙 Git & GitHub | 🌱 Learning |
+| Programming | C, C++ and Python |
+| Web Development | HTML and CSS |
+| Developer Tools | Git, GitHub and VS Code |
+| Computer Science | Programming fundamentals and problem solving |
+| Mathematics | Statistics, Calculus and logical reasoning |
 
 ---
 
-## 🎯 My Goals
+## Areas of Interest
 
-- 💻 Become a strong programmer
-- 🧠 Build a solid Computer Science foundation
-- 📊 Explore Data Science & Statistics
-- 🧮 Improve my mathematical skills
-- 🚀 Build interesting projects
-- 🌐 Learn new technologies
-- 🤝 Contribute to open source
-- 📈 Keep improving every day
+### Software Development
+Understanding programming concepts, writing clean code, solving problems and building useful applications.
+
+### Data & Statistics
+Exploring probability, statistical distributions, patterns, trends and the role of data in decision-making.
+
+### Mathematics
+Learning calculus, functions, differentiation, integration and mathematical problem-solving.
+
+### Football
+A passionate football enthusiast and Cristiano Ronaldo admirer. I appreciate the discipline, consistency and mentality behind his career.
 
 ---
 
-## 📊 GitHub Stats
+## My Goals
+
+- Develop strong programming and problem-solving skills.
+- Build a solid foundation in Computer Science.
+- Explore Data Science, Statistics and analytical thinking.
+- Develop practical projects and showcase them on GitHub.
+- Learn modern technologies and development tools.
+- Start contributing to open-source projects.
+- Maintain a consistent learning and building habit.
+
+---
+
+## GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snehansh&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehansh&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=snehansh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="175" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehansh&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Most used programming languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=snehansh&theme=tokyonight&hide_border=true" width="70%" alt="GitHub contribution streak" />
 </p>
 
 ---
 
-## 👀 Profile Visitors
+## Contribution Activity
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snehansh&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=snehansh&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
+### Contribution Snake
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/snehansh/snehansh/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/snehansh/snehansh/output/github-snake.svg" />
+    <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/snehansh/snehansh/output/github-snake.svg" width="100%" />
+  </picture>
 </p>
 
 ---
 
-## 🐍 Contribution Journey
+## Projects & Repositories
+
+I'm using GitHub to document my learning journey, programming practice, experiments and future projects.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <a href="https://github.com/snehansh?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 📍 Indore ❤️
+## Connect With Me
 
-### Sapna Sangeeta, Indore, Madhya Pradesh 🇮🇳
-
-Proud to be an **Indori** and excited to start my MCA journey at **IIPS, DAVV**.
-
----
-
-## 🤝 Let's Connect
+I'm always interested in learning, connecting with fellow developers and exploring opportunities to collaborate.
 
 <p align="center">
-
-💻 GitHub &nbsp; • &nbsp;
-🔗 LinkedIn &nbsp; • &nbsp;
-⚽ Football &nbsp; • &nbsp;
-📊 Statistics &nbsp; • &nbsp;
-🧮 Mathematics &nbsp; • &nbsp;
-🚀 Technology
-
+  <a href="https://www.linkedin.com/in/snehansh-chavhan-03943242b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/snehansamco" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/snehanshchavhan/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://github.com/snehansh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  ❤️ <b>Thanks for visiting my profile!</b> ❤️
-  <br><br>
-  ⭐ <i>Keep Learning • Keep Building • Keep Improving</i> ⭐
+  <b>Thanks for visiting my profile.</b>
+  <br />
+  <i>Keep learning. Keep building. Stay consistent.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:0EA5E9&height=100&section=footer" width="100%" alt="Footer decoration" />
 </p>
