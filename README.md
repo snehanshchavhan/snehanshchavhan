@@ -10,9 +10,7 @@
 
 <h3 align="center">Integrated MCA Student | Aspiring Software Developer</h3>
 
-<p align="center">
-  IIPS, DAVV, Indore
-</p>
+<p align="center">IIPS, DAVV, Indore</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=snehansh&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Profile views" />
@@ -42,8 +40,6 @@ Beyond programming, I enjoy exploring mathematics, statistics, data, and footbal
 ---
 
 ## Tech Stack & Tools
-
-I'm currently learning and exploring these technologies.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,git,github,vscode&perline=8" alt="Technologies and development tools" />
@@ -97,6 +93,9 @@ A passionate football enthusiast and Cristiano Ronaldo admirer. I appreciate the
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=snehansh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="175" alt="GitHub statistics" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehansh&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Most used programming languages" />
 </p>
 
@@ -108,17 +107,17 @@ A passionate football enthusiast and Cristiano Ronaldo admirer. I appreciate the
 
 ## Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snehansh&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
-</p>
+Your GitHub contribution activity is also visible on your profile's native contribution calendar.
 
-### Contribution Snake
+---
+
+## Contribution Snake
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/snehansh/snehansh/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/snehansh/snehansh/output/github-snake.svg" />
-    <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/snehansh/snehansh/output/github-snake.svg" width="100%" />
+    <img src="https://raw.githubusercontent.com/snehansh/snehansh/output/github-snake.svg" width="100%" alt="Animated GitHub contribution snake" />
   </picture>
 </p>
 
@@ -130,7 +129,7 @@ I'm using GitHub to document my learning journey, programming practice, experime
 
 <p align="center">
   <a href="https://github.com/snehansh?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
   </a>
 </p>
 
@@ -141,16 +140,14 @@ I'm using GitHub to document my learning journey, programming practice, experime
 I'm always interested in learning, connecting with fellow developers and exploring opportunities to collaborate.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/snehansh-chavhan-03943242b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/snehansh-chavhan-03943242b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-  <a href="https://www.geeksforgeeks.org/profile/snehansamco" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  <a href="https://www.geeksforgeeks.org/profile/snehansamco">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
   </a>
-
-  <a href="https://leetcode.com/u/snehanshchavhan/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <a href="https://leetcode.com/u/snehanshchavhan/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
 
