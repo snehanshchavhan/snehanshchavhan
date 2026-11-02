@@ -15,11 +15,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/snehansh">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=snehansh&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/snehansh?label=Followers&style=flat-square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=snehansh&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/snehansh?label=Followers&style=flat-square&color=blue" alt="GitHub followers" />
 </p>
 
 <p align="center">
@@ -67,15 +64,19 @@ I'm currently learning and exploring these technologies.
 ## Areas of Interest
 
 ### Software Development
+
 Understanding programming concepts, writing clean code, solving problems and building useful applications.
 
 ### Data & Statistics
+
 Exploring probability, statistical distributions, patterns, trends and the role of data in decision-making.
 
 ### Mathematics
+
 Learning calculus, functions, differentiation, integration and mathematical problem-solving.
 
 ### Football
+
 A passionate football enthusiast and Cristiano Ronaldo admirer. I appreciate the discipline, consistency and mentality behind his career.
 
 ---
@@ -143,14 +144,13 @@ I'm always interested in learning, connecting with fellow developers and explori
   <a href="https://www.linkedin.com/in/snehansh-chavhan-03943242b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://www.geeksforgeeks.org/profile/snehansamco" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
+
   <a href="https://leetcode.com/u/snehanshchavhan/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://github.com/snehansh" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
